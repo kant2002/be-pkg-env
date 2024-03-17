@@ -4,7 +4,7 @@ import { setTimeout as delay } from 'node:timers/promises'
 import get from 'lodash.get'
 import Vault from 'node-vault'
 
-import { DurationMs, Logger, OnBeforeApplicationShutdown } from '@diia-inhouse/types'
+import { DurationMs, Logger, OnBeforeApplicationShutdown } from '@kant2002-diia-inhouse/types'
 
 import { Env } from '../interfaces'
 

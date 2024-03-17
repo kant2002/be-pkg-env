@@ -1,5 +1,5 @@
-import Logger from '@diia-inhouse/diia-logger'
-import { DurationMs } from '@diia-inhouse/types'
+import Logger from '@kant2002-diia-inhouse/diia-logger'
+import { DurationMs } from '@kant2002-diia-inhouse/types'
 
 import { EnvService } from '../../src'
 
